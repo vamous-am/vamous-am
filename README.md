@@ -51,10 +51,10 @@
       <a href="#"><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://via.placeholder.com/500x250?text=Food+Delivery+App" width="100%" alt="Food Delivery Web Application"/>
+    <img src="https://raw.githubusercontent.com/vamous-am/vamous-am/main/saporivivi.png" width="100%" alt="Food Delivery Web Application"/>
       <h4>Food Delivery Web Application</h4>
       <p>Full-stack platform with real-time order and cart workflows. Relational schemas built with Sequelize ORM/MySQL; secure REST APIs validated end-to-end with Postman; roadmap and branching managed on GitHub.</p>
-      <a href="#"><img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" /></a>
+      <a href=""https://github.com/vamous-am/habeshan-rems""><img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
   <img src="https://streak-stats.demolab.com/?user=vamous-am&theme=bear&hide_border=true" />
 </p>
 
-<p align="center"><i>crafted by Amanuel Musa</i></p>
+<p align="center"><i>crafted by Amanuel </i></p>
 
 
 
