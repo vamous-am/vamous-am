@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Amanuel Musa </h1>
-<h3 align="center">Full Stack Web & Mobile App Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=87BEEB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+App+Developer;" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanuel-musa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -37,14 +40,24 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
 ---
-
 ### 💼 Featured Projects
 
-**[Habeshan REMS](#)** *(in progress)*
-Remote Employee Management System for Ethiopian BPO agencies. React/Vite/TypeScript + Tailwind/Shadcn frontend, Go/Fiber backend, PostgreSQL via GORM, offline-first queuing with Dexie.js, Telegram-based notifications.
-
-**[Food Delivery Web Application](#)**
-Full-stack platform with real-time order and cart workflows. Relational schemas built with Sequelize ORM/MySQL; secure REST APIs for order processing validated end-to-end with Postman; roadmap and branching strategy managed on GitHub.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://via.placeholder.com/500x250?text=Habeshan+REMS" width="100%" alt="Habeshan REMS"/>
+      <h4>Habeshan REMS <i>(in progress)</i></h4>
+      <p>Remote Employee Management System for Ethiopian BPO agencies. React/Vite/TypeScript + Tailwind/Shadcn frontend, Go/Fiber backend, PostgreSQL via GORM, offline-first queuing with Dexie.js, Telegram-based notifications.</p>
+      <a href="#"><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://via.placeholder.com/500x250?text=Food+Delivery+App" width="100%" alt="Food Delivery Web Application"/>
+      <h4>Food Delivery Web Application</h4>
+      <p>Full-stack platform with real-time order and cart workflows. Relational schemas built with Sequelize ORM/MySQL; secure REST APIs validated end-to-end with Postman; roadmap and branching managed on GitHub.</p>
+      <a href="#"><img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
