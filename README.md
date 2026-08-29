@@ -72,7 +72,6 @@
   <img src="https://streak-stats.demolab.com/?user=vamous-am&theme=bear&hide_border=true" />
 </p>
 
-<p align="center"><i>crafted by Amanuel </i></p>
 
 
 
