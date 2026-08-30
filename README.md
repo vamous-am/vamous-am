@@ -68,14 +68,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vamous-am&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vamous-am&theme=bear&hide_border=true" />
+  <img src="https://github-readme-streak-stats-five-theta-42.vercel.app/?user=vamous-am&theme=bear&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-
-
-
-
-
 
