@@ -46,9 +46,9 @@
   <tr>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/vamous-am/vamous-am/main/assets/coming_soon.jpg" width="100%" alt="Habeshan REMS"/>
-      <h4>Habeshan REMS <i>(in progress)</i></h4>
+      <h4>Habeshan REMS </h4>
       <p>Remote Employee Management System for Ethiopian BPO agencies. React/Vite/TypeScript + Tailwind/Shadcn frontend, Go/Fiber backend, PostgreSQL via GORM, offline-first queuing with Dexie.js, Telegram-based notifications.</p>
-      <a href="https://github.com/vamous-am/Habeshan-REMS-Project"><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" /></a>
+      <a href="https://github.com/vamous-am/Habeshan-REMS-Project"><img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top">
     <img src="https://raw.githubusercontent.com/vamous-am/vamous-am/main/assets/saporivivi.png" width="100%" alt="Food Delivery Web Application"/>
